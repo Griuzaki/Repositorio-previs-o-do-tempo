@@ -37,6 +37,10 @@ body {
     width: calc(100% - 70px);
 }
 
+.input-cidade:hover {
+    background-color: #7c7c7c6b;
+}
+
 
 
 .busca-botao {
