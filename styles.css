@@ -50,9 +50,15 @@ body {
     transition: transform 0.3s;
 }
 
+.busca-botao:hover {
+    background-color: #7c7c7c6b;
+}
+
 .busca-botao:active {
     transform: scale(1.4);
 }
+
+
 
 .img-busca {
     width: 20px;   
