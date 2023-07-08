@@ -50,7 +50,7 @@ body {
     transition: transform 0.3s;
 }
 
-.busca-botao:hover {
+.busca-botao:active {
     transform: scale(1.4);
 }
 
