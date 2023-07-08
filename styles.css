@@ -37,6 +37,8 @@ body {
     width: calc(100% - 70px);
 }
 
+
+
 .busca-botao {
     border: none;
     outline: none;
@@ -44,7 +46,13 @@ body {
     border-radius: 50px;
     background-color:#7c7c7c2b ;
     cursor: pointer;
-    float: right
+    float: right;
+    transition: transform 0.3s;
+}
+
+.busca-botao:hover {
+    color: #0071e3;
+    transform: scale(1.4);
 }
 
 .img-busca {
