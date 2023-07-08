@@ -12,6 +12,9 @@ body {
     justify-content: center;
     align-items: center;
     background-image: url("https://source.unsplash.com/2900x1300/?landscape");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
 }
 
 .caixa-grande {
